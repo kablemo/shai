@@ -1,7 +1,6 @@
 html {
   margin: 0 auto;
-  font-size: calc(16px + 1vw);
-  line-height: calc(1.1em + 0.5vw);
+  font-size: 4vw;
   font-family: "Helvetica Neue";
   }
 
@@ -37,10 +36,11 @@ nav a {
   font-size: calc(16px + 3vw);
 }
 
-@media screen and (min-width: 300px) {
+@media screen and (max-width: 1300px) {
 
   html {
     background-color: LemonChiffon;
+    font-size: 6vw;
   }
 
   .nav-tab {
