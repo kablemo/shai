@@ -37,7 +37,7 @@ nav a {
   font-size: calc(16px + 3vw);
 }
 
-@media screen and (max-width: 1137px) {
+@media screen and (min-width: 300px) {
 
   html {
     background-color: LemonChiffon;
