@@ -1,0 +1,50 @@
+html {
+  margin: 0 auto;
+  font-size: calc(16px + 1vw);
+  line-height: calc(1.1em + 0.5vw);
+  font-family: "Helvetica Neue";
+  }
+
+body {
+  margin: 24px;
+}
+
+.nav-tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: Chartreuse;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  background-color: PeachPuff;
+  margin: 2rem;
+  }
+
+nav {
+  display: inline;
+}
+
+nav a {
+  margin: 0px 16px;
+  text-decoration: none;
+  font-size: calc(16px + 3vw);
+}
+
+@media screen and (max-width: 641px) {
+
+  html {
+    background-color: LemonChiffon;
+  }
+
+  .nav-tab {
+    background-color: coral;
+  }
+
+}
