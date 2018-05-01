@@ -45,5 +45,9 @@ nav a {
   .nav-tab {
     background-color: coral;
   }
+  
+  .h1 {
+    font-size: 12vw;
+  }
 
 }
