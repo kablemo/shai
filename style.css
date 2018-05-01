@@ -39,10 +39,10 @@ nav a {
   text-decoration: none;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (min-width: 500px) and (max-width: 1300px) {
 
   html {
-    background-color: LemonChiffon;
+    background-color: BurlyWood;
     font-size: 1.5rem;
   }
 
