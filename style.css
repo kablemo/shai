@@ -1,11 +1,11 @@
 html {
   margin: 0 auto;
-  font-size: 2vh;
+  font-size: 4vh;
   font-family: "Helvetica Neue";
   }
 
 h1 {
- font-size: 15vw;
+ font-size: 5vw;
 }
 
 body {
@@ -50,7 +50,7 @@ nav a {
   }
   
   .h1 {
-    font-size: 8vw;
+    font-size: 8vh;
   }
 
 }
