@@ -43,7 +43,7 @@ nav a {
 
   html {
     background-color: BurlyWood;
-    font-size: 1.5rem;
+    font-size: 6rem;
   }
 
   .nav-tab {
@@ -51,7 +51,15 @@ nav a {
   }
   
   .h1 {
-    font-size: 2.5rem;
+    font-size: 9rem;
   }
 
+  .h2 {
+    font-size: 12vh;
+}
+
+  .h3 {
+    font-size: 12vw;
+  }
+  
 }
