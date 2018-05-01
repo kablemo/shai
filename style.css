@@ -4,6 +4,10 @@ html {
   font-family: "Helvetica Neue";
   }
 
+h1 {
+ font-size: 95vw;
+}
+
 body {
   margin: 24px;
 }
